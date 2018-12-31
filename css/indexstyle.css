@@ -1,0 +1,79 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+html {
+    background: -webkit-linear-gradient(left, #25c481, #25b7c4);
+    background: linear-gradient(to right, #25c481, #25b7c4);
+    font-size: 10px;
+    margin-top: 10px;
+    padding: 10px;
+    clear: left;
+    position: relative;
+    top: 2px;
+}
+
+header {
+    font-family: 'Arvo', serif;
+    position: realtive;
+	overflow-x: hidden;
+}
+
+header hgroup {
+	position: absolute;
+	top: 700%;
+	left: 20%;
+}
+
+header h1 {
+    font-size: 30rem;
+    font-weight: 400;
+}
+
+.signup {
+  backface-visibility: hidden;
+  position: absolute;
+  top: 65%;
+  left: 30%;
+  cursor: pointer;
+  display: inline-block;
+  white-space: nowrap;
+  border-radius: 100px;
+  border: 5px solid #fff;
+  border-width: 5px 5px 5px 5px;
+  padding: 3px 10px 2px 10px;
+    color: #000000;
+  font-size: 29px;
+  font-family: consolas;
+  font-weight: 300;
+  font-style: normal;
+  letter-spacing: 1px;
+  margin-top: 500px;
+  letter-spacing: 1px;
+  }
+
+  .login {
+    backface-visibility: hidden;
+    position: absolute;
+    top: 65%;
+    left: 55%;
+    cursor: pointer;
+    display: inline-block;
+    white-space: nowrap;
+    border-radius: 100px;
+    border: 5px solid #fff;
+    border-width: 5px 5px 5px 5px;
+    padding: 3px 10px 2px 10px;
+      color: #000000;
+    font-size: 29px;
+    font-family: consolas;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: 1px;
+    margin-top: 500px;
+    letter-spacing: 1px;
+    }
+  
+  

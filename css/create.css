@@ -1,0 +1,18 @@
+body {
+    font-family: 'Arvo', serif;
+    font-size: 1rem;
+	position: realtive;
+    overflow-x: hidden;
+    position: absolute;
+	top: 17%;
+	left: 20%;
+}
+
+html {
+    background: -webkit-linear-gradient(left, #25c481, #25b7c4);
+    background: linear-gradient(to right, #25c481, #25b7c4);
+    margin-top: 10px;
+    padding: 10px;
+    clear: left;
+    top: 2px;
+}
